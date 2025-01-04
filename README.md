@@ -32,5 +32,9 @@ Data Analysis involved exploring the Bikes Sales data to answer key questions su
 ### Data Visualization
 - Created Interactive charts using Excel's build-in tools.
 - Developed a dashboard with slicer to filtering data by product category
-#### Dashboard
+  
+#### Bikes Sales Dashboard
+<img width="729" alt="Bikes Sales Dashboard" src="https://github.com/user-attachments/assets/49f9e302-aca0-4d5a-9b02-5e471e69773a" />
+
+
   
