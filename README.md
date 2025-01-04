@@ -22,4 +22,7 @@ Data Analysis involved exploring the Bikes Sales data to answer key questions su
 #### To answer these questions :
 - We Used Pivot tables to summarize data
 - We used the filters to filter data by category, subcategory and Country
-
+### Data Visualization
+- Created Interactive charts using Excel's build-in tools.
+- Developed a dashboard with slicer to filtering data by product category
+  
