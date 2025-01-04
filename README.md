@@ -1,8 +1,8 @@
 # Bikes Sales Analysis
 
 ## Table of Contents
-- [Project Overview](#projectoverview)
-- [Project Structure](#projectstructure)
+- [Project Overview](#project-overview)
+- [Project Structure](#project-structure)
 - [Data Cleaning/Preparations](#datacleaning/preparations)
 - [Data Analysis](#dataanalysis)
 - [Data Visualization](#datavisualization)
