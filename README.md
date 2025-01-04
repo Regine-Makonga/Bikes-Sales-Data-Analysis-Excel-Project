@@ -44,5 +44,12 @@ Data Analysis involved exploring the Bikes Sales data to answer key questions su
 #### Bikes Sales Dashboard
 <img width="729" alt="Bikes Sales Dashboard" src="https://github.com/user-attachments/assets/49f9e302-aca0-4d5a-9b02-5e471e69773a" />
 
+### Analysis Results
+---
+The analysis results are summarized as follows:
+
+- The company's average sales for each product steadily increasing every year during the month of June this can be because off summer season.
+- We have seen an increase in sales of mountain bikes each year with a notable peak during the month of June which is the summer season, this product category is the best performing category in terms of sales and revenues.
+
 
   
