@@ -19,7 +19,7 @@ Data Analysis involved exploring the Bikes Sales data to answer key questions su
 - What is the overall sales trend by category?
 - Which Products are top sellers?
 - What is the overall sales by country?
-To answer these questions :
+#### To answer these questions :
 - We Used Pivot tables to summarize data
 - We used the filters to filter data by category, subcategory and Country
 
