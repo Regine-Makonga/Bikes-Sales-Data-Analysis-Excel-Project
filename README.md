@@ -1,2 +1,2 @@
-# Bikes-Sales-Data-Analysis-Project-with-Excel
+# Bikes Sales Analysis
 Data Analytic Project
