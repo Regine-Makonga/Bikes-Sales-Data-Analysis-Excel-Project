@@ -15,6 +15,11 @@ Welcome to the Bikes Sales project! This project focuses on analyzing sales data
 - Formatted SalesAmount, TotalProductCost and Profit to dollar currency
 - Created table for our data named Sales-Table.
 ### Data Analysis
-- Used Pivot tables to summarize data
-- filtered data by country and by subcategory
+Data Analysis involved exploring the Bikes Sales data to answer key questions such as:
+- What is the overall sales trend by category?
+- Which Products are top sellers?
+- What is the overall sales by country?
+To answer these questions :
+- We Used Pivot tables to summarize data
+- We used the filters to filter data by category, subcategory and Country
 
