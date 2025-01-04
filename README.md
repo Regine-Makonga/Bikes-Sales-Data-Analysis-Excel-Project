@@ -12,7 +12,9 @@ We gathered the data from the Sales_locations sheet into the Sales sheet thanks 
 - Correct Spelling checked: The data was the data was spelled correctly
 - Checked duplicates: There were no duplicates data
 - Checked missing values: There were no missing value
-#### Data manipulation techniques
-- converted OrderDate to americain date format
--
+#### Data manipulation
+- Converted OrderDate to americain date format
+- Created new column named Profit from SalesAmount and TotalProductCost 
+- Formatted SalesAmount, TotalProductCost and Profit to dollar currency
+- Created table for our data named Sales-Table
 
