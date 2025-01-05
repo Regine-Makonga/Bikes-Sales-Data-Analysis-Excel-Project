@@ -6,6 +6,7 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Data Analysis](#data-analysis)
 - [Data Visualization](#data-visualization)
+- [Analysis Results](analysis-results)
 ### Project Overview
 ---
 Welcome to the Bikes Sales project! This project focuses on analyzing sales data from a Bikes Sales Company spanning 2011 to 2013. This data analysis project aims to provide insights into the sales perfomance of a Bikes Sales company. By analyzing various aspects of the bikes sales data, we seek to identify sales performance across different product categories and gain deep understanding of the company's performance.
@@ -47,11 +48,21 @@ Data Analysis involved exploring the Bikes Sales data to answer key questions su
 ### Analysis Results
 ---
 The analysis results are summarized as follows:
-
 - The company's sales for each Bike category increase with a noticiable peak every year during summer season, month of Jun.
 - The mountain bikes category sales increase steadily each year this product category is the best performing category in terms of sales and revenues, placing mountain bikes in the top 3 best-selling subcategory bikes.
-- Road bike category which had achieved the highest sales during the year 2011, experienced a remarkable decrease in sales from the year 2012 and a progressive increase in sales in 2013 but still lower than the sales of the year 2011.
+- Road bikes category which had achieved the highest sales during the year 2011, experienced a remarkable decrease in sales from the year 2012 and a progressive increase in sales in 2013 but still lower than the sales of the year 2011.
 - The United States and Australia countries hold the most of the company's sales in all categories and generate the greatest revenue.
+### Recommendations
+---
+Based on the analysis, we recommend the following actions:
+- Invest in marketing and promotions of all bikes categories during peak season to maximize revenue
+- Work with the product and sales team to understand why there was a decrease of sales in Road bikes category from 2012 compared to 2011 sales of the same category.
+- Focus on expanding and promoting products in mountain Bikes category and Touring Bikes category.
+- Implement a customer segmentation strategy to target customers effectively
+### Limitations
+---
+We do not have important customer information such as customer identities, email addresses, ... This does not allow us to perform in-depth analyzes based on customer information, which could allow the segmentation of customers to target customers effectively.
+
 
 
   
