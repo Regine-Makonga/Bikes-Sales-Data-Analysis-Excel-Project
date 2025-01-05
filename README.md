@@ -77,6 +77,7 @@ You can download the main Bikes Sales Project file and Bikes Sales Dataset direc
 -[Download Bikes Sales Dataset](BikesSalesData.xlsx)
 
 ### References
+---
 - [Microsoft Support Excel](https://support.microsoft.com/en-us/excel)
 
 
