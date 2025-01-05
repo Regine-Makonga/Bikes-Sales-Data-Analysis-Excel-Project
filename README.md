@@ -48,8 +48,10 @@ Data Analysis involved exploring the Bikes Sales data to answer key questions su
 ---
 The analysis results are summarized as follows:
 
-- The company's average sales for each product steadily increasing every year during the month of June this can be because off summer season.
-- We have seen an increase in sales of mountain bikes each year with a notable peak during the month of June which is the summer season, this product category is the best performing category in terms of sales and revenues.
+- The company's sales for each Bike category increase with a noticiable peak every year during summer season, month of Jun.
+- The mountain bikes category sales increase steadily each year this product category is the best performing category in terms of sales and revenues, placing mountain bikes in the top 3 best-selling subcategory bikes.
+- Road bike category which had achieved the highest sales during the year 2011, experienced a remarkable decrease in sales from the year 2012 and a progressive increase in sales in 2013 but still lower than the sales of the year 2011.
+- The United States and Australia countries hold the most of the company's sales in all categories and generate the greatest revenue.
 
 
   
