@@ -45,7 +45,7 @@ Data Analysis involved exploring the Bikes Sales data to answer key questions su
 - Developed a dashboard with slicer to filtering data by product category
   
 #### Bikes Sales Dashboard
-<img width="729" alt="Bikes Sales Dashboard" src="https://github.com/user-attachments/assets/49f9e302-aca0-4d5a-9b02-5e471e69773a" />
+<img width="731" alt="Bikes Sales Dashboard" src="https://github.com/user-attachments/assets/e51c0f64-dcba-4176-812c-846cd71dfc1d" />
 
 ### Analysis Results
 ---
