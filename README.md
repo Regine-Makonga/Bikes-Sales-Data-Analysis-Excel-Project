@@ -63,7 +63,14 @@ Based on the analysis, we recommend the following actions:
 - Implement a customer segmentation strategy to target customers effectively
 ### Limitations
 ---
-We do not have important customer information such as customer identities, email addresses, ... This does not allow us to perform in-depth analyzes based on customer information, which could allow us to understand customers
+We do not have much information about customers, such as customer identities, email addresses, ... This does not allow us to perform in-depth analyzes based on customer information, which could allow us to understand customers
+
+### Access the files
+You can download the main Bikes Sales Project file and Bikes Sales Dataset directly from the repository:
+-[Download Bikes Sales Project]()
+-[Download Bikes Sales Dataset]()
+
+
 
 
 
