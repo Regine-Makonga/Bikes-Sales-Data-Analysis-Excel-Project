@@ -25,7 +25,9 @@ Welcome to the Bikes Sales project! This project focuses on analyzing sales data
 - Checked duplicates: There were no duplicates data
 - Checked missing values: There were no missing value
 - Converted OrderDate to americain date format
-- Created new column named Profit from SalesAmount and TotalProductCost 
+- Created new column named Profit from SalesAmount and TotalProductCost
+- created new column CustomerAge by extracting age from OrderDate and Costumer-dob columns using Excel Formula
+- created AgeGroup column from CustomerAge column using [Nested IF Excel statements](https://support.microsoft.com/en-us/office/video-nested-if-functions-bdb0ebe2-caff-4914-835b-36796040e303)
 - Formatted SalesAmount, TotalProductCost and Profit to dollar currency
 - Created table for our data named Sales-Table.
 ### Data Analysis
@@ -51,7 +53,7 @@ The analysis results are summarized as follows:
 - The company's sales for each Bike category increase with a noticiable peak every year during summer season, month of Jun.
 - The mountain bikes category sales increase steadily each year this product category is the best performing category in terms of sales and revenues, placing mountain bikes in the top 3 best-selling subcategory bikes.
 - Road bikes category which had achieved the highest sales during the year 2011, experienced a remarkable decrease in sales from the year 2012 and a progressive increase in sales in 2013 but still lower than the sales of the year 2011.
-- The United States and Australia countries hold the most of the company's sales in all categories and generate the greatest revenue.
+- The United States and Australia countries hold the most of the company's sales in all categories and all Age groupes and generate the greatest revenue.
 ### Recommendations
 ---
 Based on the analysis, we recommend the following actions:
