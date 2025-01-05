@@ -67,7 +67,9 @@ We do not have much information about customers, such as customer identities, em
 
 ### Access the files
 You can download the main Bikes Sales Project file and Bikes Sales Dataset directly from the repository:
--[Download Bikes Sales Project]()
+
+-[Download Bikes Sales Project](BikesSalesProject.xlsx)
+
 -[Download Bikes Sales Dataset]()
 
 
