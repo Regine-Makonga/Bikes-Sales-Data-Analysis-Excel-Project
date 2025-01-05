@@ -6,7 +6,10 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Data Analysis](#data-analysis)
 - [Data Visualization](#data-visualization)
-- [Analysis Results](analysis-results)
+- [Analysis Results](#analysis-results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [Access the files](#access-the-files)
 ### Project Overview
 ---
 Welcome to the Bikes Sales project! This project focuses on analyzing sales data from a Bikes Sales Company spanning 2011 to 2013. This data analysis project aims to provide insights into the sales perfomance of a Bikes Sales company. By analyzing various aspects of the bikes sales data, we seek to identify sales performance across different product categories and gain deep understanding of the company's performance.
@@ -66,6 +69,7 @@ Based on the analysis, we recommend the following actions:
 We do not have much information about customers, such as customer identities, email addresses, ... This does not allow us to perform in-depth analyzes based on customer information, which could allow us to understand customers
 
 ### Access the files
+---
 You can download the main Bikes Sales Project file and Bikes Sales Dataset directly from the repository:
 
 -[Download Bikes Sales Project](BikesSalesProject.xlsx)
