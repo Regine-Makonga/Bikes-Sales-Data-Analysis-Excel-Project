@@ -61,7 +61,7 @@ Based on the analysis, we recommend the following actions:
 - Implement a customer segmentation strategy to target customers effectively
 ### Limitations
 ---
-We do not have important customer information such as customer identities, email addresses, ... This does not allow us to perform in-depth analyzes based on customer information, which could allow the segmentation of customers to target customers effectively.
+We do not have important customer information such as customer identities, email addresses, ... This does not allow us to perform in-depth analyzes based on customer information, which could allow us to understand customers
 
 
 
