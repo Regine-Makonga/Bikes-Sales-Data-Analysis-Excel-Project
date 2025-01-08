@@ -1,4 +1,4 @@
-# Bikes Sales Analysis
+# Bikes Sales Analysis Using Excel
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -46,7 +46,7 @@ Data Analysis involved exploring the Bikes Sales data to answer key questions su
 ### Data Visualization
 ---
 - Created Interactive charts using Excel's build-in tools.
-- Developed a dashboard with slicer to filtering data by product category
+- Developed a dashboard with slicers to filtering data by product category
   
 #### Bikes Sales Dashboard
 <img width="731" alt="Bikes Sales Dashboard" src="https://github.com/user-attachments/assets/e51c0f64-dcba-4176-812c-846cd71dfc1d" />
