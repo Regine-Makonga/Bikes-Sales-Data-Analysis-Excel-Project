@@ -29,7 +29,7 @@ Welcome to the Bikes Sales project! This project focuses on analyzing sales data
 - Converted OrderDate to americain date format
 - Created new column named Profit from SalesAmount and TotalProductCost
 - created new column CustomerAge by extracting age from OrderDate and Costumer-dob columns using Excel Formula
-- created AgeGroup column from CustomerAge column using [Nested IF Excel statements](https://support.microsoft.com/en-us/office/video-nested-if-functions-bdb0ebe2-caff-4914-835b-36796040e303)
+- created AgeGroup column from CustomerAge column using [Nested IF Excel statements](https://support.microsoft.com/en-us/office/video-nested-if-functions-bdb0ebe2-caff-4914-835b-36796040e303) we grouped age from 0 to 16 :children, from 17 to 30 young adult, from 31 to 50 adult and from 50 to above old adult.
 - Formatted SalesAmount, TotalProductCost and Profit to dollar currency
 - Created table for our data named Sales-Table.
 ## Data Analysis
@@ -43,7 +43,7 @@ Data Analysis involved exploring the Bikes Sales data to answer key questions su
 - We used the filters to filter data by category, subcategory and Country
 ## Data Visualization
 - Created Interactive charts using Excel's build-in tools.
-- Developed a dashboard with slicers to filtering data by product category
+- Developed a dashboard with slicers to filtering data by product category and by customer Age
   
 #### Bikes Sales Dashboard
 <img width="731" alt="Bikes Sales Dashboard" src="https://github.com/user-attachments/assets/e51c0f64-dcba-4176-812c-846cd71dfc1d" />
