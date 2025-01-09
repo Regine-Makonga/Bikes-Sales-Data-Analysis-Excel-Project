@@ -73,6 +73,7 @@ You can download the main Bikes Sales Project file and Bikes Sales Dataset direc
 -[Download Bikes Sales Dataset](BikesSalesData.xlsx)
 
 ## References
+- [Data-visualization-dashboards-excel-cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos/home/module/4) IBM certificate
 - [Microsoft Support Excel](https://support.microsoft.com/en-us/excel)
 
 
